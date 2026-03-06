@@ -136,6 +136,3 @@ class ContactForm(StatesGroup):
 
 MIT
 
-## 👨‍💻 Автор
-
-Развернуто на aiogram3 для интеграции с Bitrix24 CRM.
